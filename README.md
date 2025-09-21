@@ -1,4 +1,4 @@
-# TodoApp
+# Todo App
 
 A simple Qt Widgets TODO application.
 
